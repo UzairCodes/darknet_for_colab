@@ -20,6 +20,6 @@ height=416
 channels=1
 momentum=0.949
 decay=0.0005
-learning_rate=0.001
+learning_rate=0.0005
 steps= (6400,7200)
 scales=(0.1,0.1)
